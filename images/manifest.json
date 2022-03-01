@@ -63,6 +63,63 @@
     } ],
     "height" : 1093
   }, {
+    "width" : 5273,
+    "id" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00179_revisionsberattelse_1899_sid-02/canvas/",
+    "label" : {
+      "none" : [ "fac_00179_revisionsberattelse_1899_sid-02" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00179_revisionsberattelse_1899_sid-02/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00179_revisionsberattelse_1899_sid-02/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 165,
+              "height" : 124
+            }, {
+              "width" : 330,
+              "height" : 248
+            }, {
+              "width" : 660,
+              "height" : 495
+            }, {
+              "width" : 1319,
+              "height" : 989
+            }, {
+              "width" : 2637,
+              "height" : 1978
+            }, {
+              "width" : 5273,
+              "height" : 3955
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 5273,
+            "@id" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00179_revisionsberattelse_1899_sid-02",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3955
+          } ],
+          "format" : "image/jpeg",
+          "width" : 5273,
+          "id" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00179_revisionsberattelse_1899_sid-02/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3955
+        },
+        "target" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00179_revisionsberattelse_1899_sid-02/canvas/"
+      } ]
+    } ],
+    "height" : 3955
+  }, {
     "width" : 3534,
     "id" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00167_revisionsberattelse_1908_sid-02/canvas/",
     "label" : {
