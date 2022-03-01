@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 110,
+    "height" : 175
+  }, {
+    "width" : 220,
+    "height" : 349
+  }, {
+    "width" : 440,
+    "height" : 698
+  }, {
+    "width" : 879,
+    "height" : 1396
+  }, {
+    "width" : 1758,
+    "height" : 2792
+  }, {
+    "width" : 3515,
+    "height" : 5584
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3515,
+  "@id" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00179_arsberattelse_1904_sid-02",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5584
+}
