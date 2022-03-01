@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 114,
+    "height" : 185
+  }, {
+    "width" : 228,
+    "height" : 370
+  }, {
+    "width" : 456,
+    "height" : 740
+  }, {
+    "width" : 911,
+    "height" : 1479
+  }, {
+    "width" : 1822,
+    "height" : 2957
+  }, {
+    "width" : 3643,
+    "height" : 5913
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3643,
+  "@id" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00173_revisionsberattelse_1886_sid-01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5913
+}
