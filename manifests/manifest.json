@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://goinEVIS.github.io/lm-iiif-workbench/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Exempel på tre olika protokoll från FAC",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://4cc383d6-0049-48b1-9b0c-9ba8e26469b6",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://800855d5-74b8-4ce5-acd3-0ff1a7461439",
+      "@type" : "sc:Canvas",
+      "label" : "FAC 00167 Revisionsberättelse 1908 sid 02",
+      "height" : 5571,
+      "width" : 3534,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a603063f-cddd-4b1c-99ac-016e8353b97b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://goinevis.github.io/lm-iiif-workbench/images/fac_00167_revisionsberattelse_1908_sid-02/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://goinevis.github.io/lm-iiif-workbench/images/fac_00167_revisionsberattelse_1908_sid-02",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5571,
+          "width" : 3534
+        },
+        "on" : "http://800855d5-74b8-4ce5-acd3-0ff1a7461439"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6febd148-d00b-4f2b-ac4e-9c3d0a51be11",
+      "@type" : "sc:Canvas",
+      "label" : "FAC 00179 Revisionsberättelse 1899 sid 02",
+      "height" : 3955,
+      "width" : 5273,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2498e2c9-1a6d-4374-b0d6-925deccec742",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://goinevis.github.io/lm-iiif-workbench/images/fac_00179_revisionsberattelse_1899_sid-02/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://goinevis.github.io/lm-iiif-workbench/images/fac_00179_revisionsberattelse_1899_sid-02",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3955,
+          "width" : 5273
+        },
+        "on" : "http://6febd148-d00b-4f2b-ac4e-9c3d0a51be11"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2fc0156c-b683-4012-9d59-c3e4372be371",
+      "@type" : "sc:Canvas",
+      "label" : "FAC 04390 Arsberättelse 1944 Sid 01",
+      "height" : 1093,
+      "width" : 4022,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://805d7c67-3f7b-4725-b9c1-34cef336ea14",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://goinevis.github.io/lm-iiif-workbench/images/fac_04390_arsberattelse_1944_sid-01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://goinevis.github.io/lm-iiif-workbench/images/fac_04390_arsberattelse_1944_sid-01",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1093,
+          "width" : 4022
+        },
+        "on" : "http://2fc0156c-b683-4012-9d59-c3e4372be371"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
