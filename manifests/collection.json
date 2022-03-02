@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://goinEVIS.github.io/lm-iiif-workbench/manifests/manifest.json",
     "label" : "Exempel på tre olika protokoll från FAC"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://goinEVIS.github.io/lm-iiif-workbench/manifests/manifest2.json",
+    "label" : "Exempel på tre olika protokoll från FAC"
   } ]
 }
