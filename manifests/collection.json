@@ -1,0 +1,13 @@
+{
+  "id" : "https://goinEVIS.github.io/lm-iiif-workbench/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in goinEVIS/lm-iiif-workbench project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://goinEVIS.github.io/lm-iiif-workbench/manifests/manifest.json",
+    "label" : "Exempel på tre olika protokoll från FAC"
+  } ]
+}
