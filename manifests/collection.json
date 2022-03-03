@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://goinEVIS.github.io/lm-iiif-workbench/manifests/manifest3.json",
-    "label" : "Exempel på tre olika protokoll från FAC"
-  } ]
+  "items" : [ ]
 }
