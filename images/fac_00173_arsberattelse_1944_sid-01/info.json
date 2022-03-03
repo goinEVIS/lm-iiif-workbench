@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 105,
+    "height" : 136
+  }, {
+    "width" : 209,
+    "height" : 272
+  }, {
+    "width" : 418,
+    "height" : 543
+  }, {
+    "width" : 836,
+    "height" : 1085
+  }, {
+    "width" : 1672,
+    "height" : 2170
+  }, {
+    "width" : 3344,
+    "height" : 4340
+  } ],
+  "profile" : "level0",
+  "width" : 3344,
+  "id" : "https://goinEVIS.github.io/lm-iiif-workbench/images/fac_00173_arsberattelse_1944_sid-01",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 4340
+}
